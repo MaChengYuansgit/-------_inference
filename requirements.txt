@@ -1,0 +1,11 @@
+numpy==1.23.0
+pandas
+opencv-python==4.8.1.78
+torch
+torchvision
+scikit-learn
+pretrainedmodels
+albumentations
+timm
+yacs
+opencv-python-headless==4.9.0.80
